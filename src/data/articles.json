@@ -1,0 +1,31 @@
+{
+    "topics": [
+      {
+        "name": "Technology",
+        "articles": [
+          {
+            "title": "Introduction to React",
+            "content": "Lorem ipsum..."
+          },
+          {
+            "title": "Building a REST API with Node.js",
+            "content": "Lorem ipsum..."
+          }
+        ]
+      },
+      {
+        "name": "Science",
+        "articles": [
+          {
+            "title": "The Theory of Relativity",
+            "content": "Lorem ipsum..."
+          },
+          {
+            "title": "Genetic Engineering and Its Applications",
+            "content": "Lorem ipsum..."
+          }
+        ]
+      }
+    ]
+  }
+  
